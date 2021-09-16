@@ -63,8 +63,8 @@ params:
      # - name: Elements
      #   url: elements.html
    # menu: Menu
-    subtitle: ""
-    title: Home Page
+  #  subtitle: ""
+   # title: Home Page
   tiles:
     enable: yes
     showcase:
