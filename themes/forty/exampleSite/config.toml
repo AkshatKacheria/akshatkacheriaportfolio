@@ -166,6 +166,7 @@ disqusShortname = ""
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
     formEmail = "akshatkacheria@gmail.com"
+    method = "POST"
 
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
