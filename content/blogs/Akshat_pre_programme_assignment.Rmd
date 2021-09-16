@@ -19,54 +19,20 @@ library(here)
 library(janitor)
 ```
 # Task 1: About me
-Hey Guys, I am Akshat. You could pronouce it as "Uck-Shuh" or "j-aim-es bo-nd"
+Hey, Welcome to my bio. You could pronouce my name as "Uck-Shut" or "j-aim-es bo-nd"
 
-![](../bb.jfif)
+## My recent life
+An undergraduate degree in computer science introduced me to programming and data-oriented courses. Then I made the toughest choice of my life - Get a consulting or Technology job after my Masters at London Business School **or open my own bar and spend the rest of my life serving drinks for the greater good of mankind.** (I chose LBS). Being exposed to both, technology and business elements at a young age made me realize the importance of having the right set of analytical as well as management skills to succeed. The Masters in Analytics and Management program helped me learn how to utilize both these skills to my advantage 
 
-## My undergraduate life
-An undergraduate degree in computer science introduced me to programming and data-oriented courses. So now am going to make the toughest choice of my life - Get a consulting/Tech job after the MAM **or open my own bar and spend the rest of my life serving drinks for the greater good of mankind.**
+During my second year at undergraduate engineering college, I had a research project for which we created an award winning brain controlled wheelchair. (I would definitely like to move things with my mind). I later founded my own digital services start up with three other friends, we made some money, it was not enough so we shut shop and I took up a job at a top British bank. I then chose to move from Mumbai to London and pursue my masters for faster career growth and client facing post graduate roles. 
 
-Being brought up around a family business gave me a business
-outlook. Being exposed to both these elements at a young age made me realize the importance of having the right set of analytical as well as management skills to succeed. The Masters in Analytics and Management programme will help me learn how to utilize both these skills to my advantage *(but even after the rigorous 1 year if I do not manage to learn the balance - I'll just use the LBS brand name, expensive LBS merchandise and secure a high paying job).*
+## My goals.
+In the short term I want to learn how to fully utilize the potential of data in order to drive a successful business or product. Professionally, I want to develop an expertise in leveraging data to launch innovative products or create strategies to solve business problems. I want to work in technology consulting with top tier firms (if you're a part of such a firm, contact me and lets discuss possibilities over coffee). 
 
-During my second year at undergraduate engineering college, I founded my own start up with three other friends, we made some money, it was not enough so I took up a job at Barclays where I still did not make enough money. I also had a team research project for which we created an award winning brain controlled wheelchair. I swear I do not have a god complex but I would definitely like to move things with my mind
+My skill set would include understanding client requirements, performing quantitative and qualitative analysis, presenting a concrete technological solution and devising implementation strategies.
+In the long term I would like to have my own bar, learn how to fly a plane.
 
-![](../unagi.jfif) 
+Here's my linkedIn: [link](https://www.linkedin.com/in/akshatkacheria/)
 
-## Me professionally
-
-At Barclays I joined the Insurance team and started developing software using various technologies for:
-1. Database manipulation
-2. Test automation
-3. User experience
-4. Digital accessibility for the disabled. 
-5. We used Agile methodologies, primarily the scrum framework and sprint cycles
-+ I very well understand how the chronology of my biography is not off track but I really wanted to use my experience at Barclays to seem a little professional.
-
-## My goals in cool words.
-In the short term I want to learn how to fully utilize the potential of data in order to drive a successful business or product. Professionally, I would like to holistically understand how businesses work and develop an expertise in leveraging data to launch innovative products. I want to work in technology consulting with top firms such as Bain & Company, McKinsey or BCG. My skill set would include understanding client requirements, performing quantitative and qualitative
-analysis, presenting a concrete technological solution and devising implementation strategies.
-In the long term I would like to have my own bar, learn how to fly and spend all the money I made using the LBS brand name.
-
-Cheers and have great day guys, if you really spent your time reading the whole biography - come home & I will compensate you with a beer :) 
-
-#Contact Me
-Here's my linkedIn if you want to know the more serious side of me [link](https://www.linkedin.com/in/akshatkacheria/)
-
-# Details for Submitted Assignment
-
-Knit the completed R Markdown file as an HTML document (use the "Knit" button at the top of the script editor window) and upload it to Canvas.
-
-If you want to, please answer the following
-
-- Collaborate with: 
-1. Lauren MAM [Link](https://www.linkedin.com/in/laurenjwade/),
-2. Neel MFA [Link](https://www.linkedin.com/in/neelmalhotra/),
-3. Lazar MAM [Link](https://www.linkedin.com/in/jelic98/)
-
-- Time taken for completion of all 4 tasks: 3 hours; 8 hours for the whole pre-course
-- What, if anything, gave you the most trouble: NA
-
-Thanks for reading and grading
 
 

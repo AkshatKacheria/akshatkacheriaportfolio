@@ -2,13 +2,11 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T21:28:43-05:00"
-description: ""
+date: "2017-10-31T22:42:51-05:00"
+description: A project on youth behaviour risk
 draft: false
-image: pic10.jpg
+image: pictempyouth.jpg
 keywords: ""
-slug: ipsum
-title: Ipsum
+slug: youthbehaviour 
+title: Youth Behaviour Risk Project
 ---
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
