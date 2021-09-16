@@ -58,8 +58,8 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
+     # - name: Generic Blog
+     #   url: blogs/ipsum
      # - name: Elements
      #   url: elements.html
     menu: Menu
@@ -81,9 +81,9 @@ params:
         title: Youth Behaviour Risk Project
         url: blogs/youthbehaviour
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: Research Project on Brain Interfacing to move and control a wheelchair
+        title: Brain Controlled Wheelchair
+        url: blogs/braincontrol
   #    - image: pic05.jpg
   #      subtitle: Ipsum Dolor Sit Amet
   #      title: Consequat
