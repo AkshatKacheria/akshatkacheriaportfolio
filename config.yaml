@@ -49,20 +49,20 @@ params:
         url: https://www.linkedin.com/in/akshatkacheria/
   image: ''
   name: Akshat Kacheria
-  navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    links:
-      - name: Home
-        url: '#'
-      - name: Blogs
-        url: blogs
+  #navigation:
+    #button1:
+    #  - name: Get Started
+     #   url: blogs
+    #links:
+    #  - name: Home
+    #    url: '#'
+    #  - name: Blogs
+    #    url: blogs
      # - name: Generic Blog
      #   url: blogs/ipsum
      # - name: Elements
      #   url: elements.html
-    menu: Menu
+   # menu: Menu
     subtitle: ""
     title: Home Page
   tiles:
