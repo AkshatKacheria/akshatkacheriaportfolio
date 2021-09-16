@@ -64,7 +64,7 @@ params:
      #   url: elements.html
    # menu: Menu
   #  subtitle: ""
-   # title: Home Page
+  title: Home Page
   tiles:
     enable: yes
     showcase:
