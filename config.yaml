@@ -49,22 +49,22 @@ params:
         url: https://www.linkedin.com/in/akshatkacheria/
   image: ''
   name: Akshat Kacheria
-  #navigation:
-    #button1:
-    #  - name: Get Started
-     #   url: blogs
-    #links:
-    #  - name: Home
-    #    url: '#'
+  navigation:
+    button1:
+      - name: Download Resume
+        url: https://drive.google.com/file/d/1MvRS3NExFfZ3fuu8EzA7e4UhUaWHcJqV/view?usp=sharing
+    links:
+      - name: Home
+        url: '#'
     #  - name: Blogs
     #    url: blogs
      # - name: Generic Blog
      #   url: blogs/ipsum
      # - name: Elements
      #   url: elements.html
-   # menu: Menu
-  #  subtitle: ""
-  title: Home Page
+    menu: Menu
+    subtitle: ""
+    title: Home Page
   tiles:
     enable: yes
     showcase:
@@ -84,6 +84,7 @@ params:
         subtitle: Research Project on Brain Interfacing to move and control a wheelchair
         title: Brain Controlled Wheelchair
         url: blogs/braincontrol
+        
   #    - image: pic05.jpg
   #      subtitle: Ipsum Dolor Sit Amet
   #      title: Consequat
