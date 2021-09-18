@@ -27,7 +27,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-
 ```{r load-libraries, echo=FALSE}
 library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
 library(mosaic)
@@ -47,7 +46,6 @@ library(openintro)
 # Challenge 1: Brexit plot
 
 The graph shows how party affiliation affected votes for Brexit. It is evident that UK Independence party supporters had the highest votes for Brexit. The analysis of data shows the predictability of a brexit like vote based on political affiliations and this could lead to parties making laws based on predictive affiliations rather than pure good of the nation.
-
 
 ```{r brexit graph, fig.width=10, fig.height=6}
 # Load data

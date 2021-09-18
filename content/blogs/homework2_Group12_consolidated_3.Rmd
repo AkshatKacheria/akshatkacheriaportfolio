@@ -607,7 +607,6 @@ approval_margins %>%
 
 ```
 
-
 Also, please add an orange line at zero. Your plot should look like this:
 
 ```{r trump_margins, echo=FALSE, out.width="100%"}

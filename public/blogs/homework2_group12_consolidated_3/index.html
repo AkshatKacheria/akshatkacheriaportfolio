@@ -482,30 +482,30 @@ bootstrap_ci_email &lt;- email_usage %&gt;%
 approval_pollist &lt;- read_csv(&#39;https://projects.fivethirtyeight.com/biden-approval-data/approval_polllist.csv&#39;) 
 
 glimpse(approval_pollist)</code></pre>
-<pre><code>## Rows: 1,596
+<pre><code>## Rows: 1,600
 ## Columns: 22
 ## $ president           &lt;chr&gt; &quot;Joseph R. Biden Jr.&quot;, &quot;Joseph R. Biden Jr.&quot;, &quot;Jos~
 ## $ subgroup            &lt;chr&gt; &quot;All polls&quot;, &quot;All polls&quot;, &quot;All polls&quot;, &quot;All polls&quot;~
-## $ modeldate           &lt;chr&gt; &quot;9/14/2021&quot;, &quot;9/14/2021&quot;, &quot;9/14/2021&quot;, &quot;9/14/2021&quot;~
-## $ startdate           &lt;chr&gt; &quot;1/21/2021&quot;, &quot;1/27/2021&quot;, &quot;1/28/2021&quot;, &quot;1/28/2021&quot;~
-## $ enddate             &lt;chr&gt; &quot;2/2/2021&quot;, &quot;1/31/2021&quot;, &quot;1/30/2021&quot;, &quot;1/30/2021&quot;,~
-## $ pollster            &lt;chr&gt; &quot;Gallup&quot;, &quot;Rasmussen Reports/Pulse Opinion Researc~
-## $ grade               &lt;chr&gt; &quot;B+&quot;, &quot;B&quot;, &quot;B-&quot;, &quot;B&quot;, &quot;B/C&quot;, NA, &quot;B/C&quot;, &quot;B&quot;, &quot;A-&quot;,~
-## $ samplesize          &lt;dbl&gt; 906, 1500, 1200, 6467, 841, 1055, 1005, 15000, 107~
-## $ population          &lt;chr&gt; &quot;a&quot;, &quot;lv&quot;, &quot;rv&quot;, &quot;a&quot;, &quot;lv&quot;, &quot;a&quot;, &quot;rv&quot;, &quot;a&quot;, &quot;a&quot;, &quot;~
-## $ weight              &lt;dbl&gt; 1.3147, 0.1925, 0.8807, 0.1213, 1.1151, 1.4271, 0.~
+## $ modeldate           &lt;chr&gt; &quot;9/17/2021&quot;, &quot;9/17/2021&quot;, &quot;9/17/2021&quot;, &quot;9/17/2021&quot;~
+## $ startdate           &lt;chr&gt; &quot;1/31/2021&quot;, &quot;2/1/2021&quot;, &quot;2/1/2021&quot;, &quot;2/2/2021&quot;, &quot;~
+## $ enddate             &lt;chr&gt; &quot;2/2/2021&quot;, &quot;2/3/2021&quot;, &quot;2/3/2021&quot;, &quot;2/4/2021&quot;, &quot;2~
+## $ pollster            &lt;chr&gt; &quot;YouGov&quot;, &quot;Rasmussen Reports/Pulse Opinion Researc~
+## $ grade               &lt;chr&gt; &quot;B+&quot;, &quot;B&quot;, &quot;B&quot;, &quot;B&quot;, &quot;B&quot;, &quot;B-&quot;, &quot;A-&quot;, &quot;B&quot;, &quot;B-&quot;, &quot;~
+## $ samplesize          &lt;dbl&gt; 1500, 1500, 15000, 1500, 15000, 1005, 1429, 15000,~
+## $ population          &lt;chr&gt; &quot;a&quot;, &quot;lv&quot;, &quot;a&quot;, &quot;lv&quot;, &quot;a&quot;, &quot;a&quot;, &quot;a&quot;, &quot;a&quot;, &quot;rv&quot;, &quot;l~
+## $ weight              &lt;dbl&gt; 1.0856, 0.3308, 0.2786, 0.3086, 0.2507, 0.8741, 2.~
 ## $ influence           &lt;dbl&gt; 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,~
-## $ approve             &lt;dbl&gt; 57.0, 49.0, 58.0, 55.3, 56.1, 61.0, 53.0, 54.0, 49~
-## $ disapprove          &lt;dbl&gt; 37.0, 46.0, 35.0, 33.0, 36.4, 38.0, 39.0, 33.0, 36~
-## $ adjusted_approve    &lt;dbl&gt; 56.4, 51.4, 57.1, 53.9, 54.6, 57.4, 52.6, 52.6, 51~
-## $ adjusted_disapprove &lt;dbl&gt; 36.4, 40.1, 36.2, 36.3, 37.1, 38.4, 38.1, 36.3, 35~
-## $ multiversions       &lt;chr&gt; NA, NA, NA, &quot;*&quot;, NA, NA, NA, NA, NA, NA, NA, NA, N~
-## $ tracking            &lt;lgl&gt; NA, TRUE, NA, TRUE, NA, NA, NA, TRUE, NA, TRUE, NA~
-## $ url                 &lt;chr&gt; &quot;https://news.gallup.com/poll/329348/biden-begins-~
-## $ poll_id             &lt;dbl&gt; 74344, 74293, 74355, 74323, 74326, 74336, 74324, 7~
-## $ question_id         &lt;dbl&gt; 139651, 139520, 139680, 139563, 139569, 139629, 13~
-## $ createddate         &lt;chr&gt; &quot;2/4/2021&quot;, &quot;2/1/2021&quot;, &quot;2/9/2021&quot;, &quot;2/2/2021&quot;, &quot;2~
-## $ timestamp           &lt;chr&gt; &quot;14:59:08 14 Sep 2021&quot;, &quot;14:59:08 14 Sep 2021&quot;, &quot;1~</code></pre>
+## $ approve             &lt;dbl&gt; 46, 52, 54, 49, 54, 57, 49, 54, 60, 50, 54, 55, 51~
+## $ disapprove          &lt;dbl&gt; 38, 46, 33, 48, 34, 34, 39, 34, 32, 47, 34, 33, 46~
+## $ adjusted_approve    &lt;dbl&gt; 47.2, 54.4, 52.5, 51.4, 52.5, 55.9, 49.6, 52.5, 59~
+## $ adjusted_disapprove &lt;dbl&gt; 38.3, 40.1, 36.3, 42.1, 37.3, 35.1, 39.1, 37.3, 33~
+## $ multiversions       &lt;chr&gt; NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA~
+## $ tracking            &lt;lgl&gt; NA, TRUE, TRUE, TRUE, TRUE, NA, NA, TRUE, NA, TRUE~
+## $ url                 &lt;chr&gt; &quot;https://docs.cdn.yougov.com/460mactkmh/econTabRep~
+## $ poll_id             &lt;dbl&gt; 74332, 74338, 74366, 74347, 74367, 74345, 74348, 7~
+## $ question_id         &lt;dbl&gt; 139593, 139642, 139733, 139654, 139734, 139652, 13~
+## $ createddate         &lt;chr&gt; &quot;2/3/2021&quot;, &quot;2/4/2021&quot;, &quot;2/11/2021&quot;, &quot;2/5/2021&quot;, &quot;~
+## $ timestamp           &lt;chr&gt; &quot;13:01:54 17 Sep 2021&quot;, &quot;13:01:54 17 Sep 2021&quot;, &quot;1~</code></pre>
 <pre class="r"><code># Use `lubridate` to fix dates, as they are given as characters.
 approval_pollist &lt;- approval_pollist %&gt;% 
   mutate(modeldate = lubridate::mdy(modeldate), 
@@ -537,19 +537,19 @@ approval_margins &lt;- approval_pollist %&gt;%
             upper = net_approval_rate+ (t_critical*se))
 
 glimpse(approval_margins)</code></pre>
-<pre><code>## Rows: 102
+<pre><code>## Rows: 99
 ## Columns: 10
-## Groups: week [34]
-## $ week              &lt;dbl&gt; 4, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7, 7, 8, 8, 8, 9, 9, 9~
+## Groups: week [33]
+## $ week              &lt;dbl&gt; 5, 5, 5, 6, 6, 6, 7, 7, 7, 8, 8, 8, 9, 9, 9, 10, 10,~
 ## $ subgroup          &lt;chr&gt; &quot;Adults&quot;, &quot;All polls&quot;, &quot;Voters&quot;, &quot;Adults&quot;, &quot;All poll~
-## $ number            &lt;int&gt; 2, 5, 3, 14, 23, 12, 12, 19, 9, 13, 25, 14, 13, 26, ~
-## $ net_approval_rate &lt;dbl&gt; 18.0, 16.7, 16.4, 17.1, 15.9, 15.2, 18.8, 16.8, 14.7~
-## $ sd_approve        &lt;dbl&gt; 0.943, 2.169, 2.820, 2.619, 2.685, 2.358, 3.124, 2.5~
-## $ sd_disapprove     &lt;dbl&gt; 0.00, 1.66, 2.36, 1.13, 2.09, 2.82, 1.21, 2.01, 1.91~
-## $ se                &lt;dbl&gt; 0.667, 1.223, 2.122, 0.762, 0.709, 1.062, 0.967, 0.7~
-## $ t_critical        &lt;dbl&gt; 12.71, 2.78, 4.30, 2.16, 2.07, 2.20, 2.20, 2.10, 2.3~
-## $ lower             &lt;dbl&gt; 9.51, 13.35, 7.29, 15.49, 14.45, 12.86, 16.64, 15.25~
-## $ upper             &lt;dbl&gt; 26.4, 20.1, 25.5, 18.8, 17.4, 17.5, 20.9, 18.4, 16.4~</code></pre>
+## $ number            &lt;int&gt; 8, 13, 6, 12, 19, 9, 13, 25, 14, 13, 26, 15, 13, 22,~
+## $ net_approval_rate &lt;dbl&gt; 16.0, 15.3, 15.3, 18.8, 16.8, 14.7, 17.3, 15.1, 14.6~
+## $ sd_approve        &lt;dbl&gt; 2.53, 3.12, 3.20, 3.13, 2.58, 1.26, 1.52, 2.14, 2.53~
+## $ sd_disapprove     &lt;dbl&gt; 1.32, 2.42, 3.53, 1.20, 2.00, 1.95, 1.01, 2.21, 2.93~
+## $ se                &lt;dbl&gt; 1.007, 1.096, 1.944, 0.967, 0.750, 0.775, 0.507, 0.6~
+## $ t_critical        &lt;dbl&gt; 2.36, 2.18, 2.57, 2.20, 2.10, 2.31, 2.18, 2.06, 2.16~
+## $ lower             &lt;dbl&gt; 13.66, 12.94, 10.28, 16.71, 15.20, 12.95, 16.15, 13.~
+## $ upper             &lt;dbl&gt; 18.4, 17.7, 20.3, 21.0, 18.3, 16.5, 18.4, 16.3, 16.8~</code></pre>
 <pre class="r"><code>#Create the graph
 approval_margins %&gt;% 
   filter(subgroup == &quot;Voters&quot;) %&gt;%
@@ -813,12 +813,12 @@ temp1 &lt;-final_table %&gt;%
 
 # Download TFL data to temporary file
 httr::GET(url, write_disk(bike.temp &lt;- tempfile(fileext = &quot;.xlsx&quot;)))</code></pre>
-<pre><code>## Response [https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/number-bicycle-hires/2021-08-23T14%3A32%3A29/tfl-daily-cycle-hires.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20210915%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210915T113428Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=0d33701bcf8cc5cdbe9cc3386972eb613a31e6dfd7ed4efa5750d3416437b1cf&amp;X-Amz-SignedHeaders=host]
-##   Date: 2021-09-15 11:34
+<pre><code>## Response [https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/number-bicycle-hires/2021-08-23T14%3A32%3A29/tfl-daily-cycle-hires.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20210918%2Feu-west-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210918T185003Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=9f10c4186de17ff42c38aaa0cf1cd36b1ee6ae0bab786ad92fa2476ff9394a37&amp;X-Amz-SignedHeaders=host]
+##   Date: 2021-09-18 18:50
 ##   Status: 200
 ##   Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 ##   Size: 173 kB
-## &lt;ON DISK&gt;  C:\Users\Akshat Kacheria\AppData\Local\Temp\Rtmpyq731Z\file385c5c5629ef.xlsx</code></pre>
+## &lt;ON DISK&gt;  C:\Users\Akshat Kacheria\AppData\Local\Temp\RtmpAxBeR4\file3528609a74b7.xlsx</code></pre>
 <pre class="r"><code># Use read_excel to read it as dataframe
 bike0 &lt;- read_excel(bike.temp,
                    sheet = &quot;Data&quot;,
