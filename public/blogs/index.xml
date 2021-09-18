@@ -18,24 +18,6 @@ My recent lifeAn undergraduate degree in computer science introduced me to prog
     </item>
     
     <item>
-      <title>Akshat Bio</title>
-      <link>https://akshatkacheria.netlify.app/blogs/akbio/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>https://akshatkacheria.netlify.app/blogs/akbio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brain Controlled Wheelchair</title>
-      <link>https://akshatkacheria.netlify.app/blogs/braincontrol/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>https://akshatkacheria.netlify.app/blogs/braincontrol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Brain Controlled Wheelchair</title>
       <link>https://akshatkacheria.netlify.app/blogs/braincontrol/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
@@ -51,26 +33,8 @@ These people are dependent on others in order to move. A large number of patient
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
       <guid>https://akshatkacheria.netlify.app/blogs/brexit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brexit Data Project</title>
-      <link>https://akshatkacheria.netlify.app/blogs/brexit/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>https://akshatkacheria.netlify.app/blogs/brexit/</guid>
       <description>Challenge 1: Brexit plotThe graph shows how party affiliation affected votes for Brexit. It is evident that UK Independence party supporters had the highest votes for Brexit. The analysis of data shows the predictability of a brexit like vote based on political affiliations and this could lead to parties making laws based on predictive affiliations rather than pure good of the nation.
 # Load databrexit &amp;lt;- read_csv(here::here(&amp;quot;data&amp;quot;, &amp;quot;brexit_results.</description>
-    </item>
-    
-    <item>
-      <title>Youth Behaviour Risk Project</title>
-      <link>https://akshatkacheria.netlify.app/blogs/youthbehaviour/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>https://akshatkacheria.netlify.app/blogs/youthbehaviour/</guid>
-      <description></description>
     </item>
     
     <item>
