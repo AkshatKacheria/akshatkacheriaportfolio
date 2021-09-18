@@ -16,7 +16,7 @@ library(gapminder)  # gapminder dataset
 library(here)
 library(janitor)
 ```
-# Task 1: About me
+# About me
 Hey, Welcome to my bio. You could pronouce my name as "Uck-Shut" or "j-aim-es bo-nd"
 
 ## My recent life
