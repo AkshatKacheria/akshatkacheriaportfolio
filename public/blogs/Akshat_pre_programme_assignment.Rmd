@@ -1,0 +1,37 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T22:42:51-05:00"
+description: A short and quick biographies of me
+draft: false
+image: pic07.jpg
+keywords: ""
+slug: akbio
+title: Akshat Bio
+---
+
+```{r load-libraries, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
+library(gapminder)  # gapminder dataset
+library(here)
+library(janitor)
+```
+# Task 1: About me
+Hey, Welcome to my bio. You could pronouce my name as "Uck-Shut" or "j-aim-es bo-nd"
+
+## My recent life
+An undergraduate degree in computer science introduced me to programming and data-oriented courses. Then I made the toughest choice of my life - Get a consulting or Technology job after my Masters at London Business School **or open my own bar and spend the rest of my life serving drinks for the greater good of mankind.** (I chose LBS). Being exposed to both, technology and business elements at a young age made me realize the importance of having the right set of analytical as well as management skills to succeed. The Masters in Analytics and Management program helped me learn how to utilize both these skills to my advantage 
+
+During my second year at undergraduate engineering college, I had a research project for which we created an award winning brain controlled wheelchair. (I would definitely like to move things with my mind). I later founded my own digital services start up with three other friends, we made some money, it was not enough so we shut shop and I took up a job at a top British bank. I then chose to move from Mumbai to London and pursue my masters for faster career growth and client facing post graduate roles. 
+
+## My goals.
+In the short term I want to learn how to fully utilize the potential of data in order to drive a successful business or product. Professionally, I want to develop an expertise in leveraging data to launch innovative products or create strategies to solve business problems. I want to work in technology consulting with top tier firms (if you're a part of such a firm, contact me and lets discuss possibilities over coffee). 
+
+My skill set would include understanding client requirements, performing quantitative and qualitative analysis, presenting a concrete technological solution and devising implementation strategies.
+In the long term I would like to have my own bar, learn how to fly a plane.
+
+Here's my linkedIn: [link](https://www.linkedin.com/in/akshatkacheria/)
+
+
+

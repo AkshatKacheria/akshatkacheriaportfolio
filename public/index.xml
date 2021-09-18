@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akshat</title>
+    <link>https://akshatkacheria.netlify.app/</link>
+    <description>Recent content on Akshat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://akshatkacheria.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Session 4: Homework 2</title>
+      <link>https://akshatkacheria.netlify.app/blogs/homework2_group12_consolidated_3/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://akshatkacheria.netlify.app/blogs/homework2_group12_consolidated_3/</guid>
+      <description>Climate change and temperature anomaliesIf we wanted to study climate change, we can find data on the Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies in the Northern Hemisphere at NASA’s Goddard Institute for Space Studies. The tabular data of temperature anomalies can be found here
+To define temperature anomalies you need to have a reference, or base, period which NASA clearly states that it is the period between 1951-1980.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://akshatkacheria.netlify.app/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://akshatkacheria.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+    </item>
+    
+    <item>
+      <title>Akshat Bio</title>
+      <link>https://akshatkacheria.netlify.app/blogs/akbio/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://akshatkacheria.netlify.app/blogs/akbio/</guid>
+      <description>Task 1: About meHey, Welcome to my bio. You could pronouce my name as “Uck-Shut” or “j-aim-es bo-nd”
+My recent lifeAn undergraduate degree in computer science introduced me to programming and data-oriented courses. Then I made the toughest choice of my life - Get a consulting or Technology job after my Masters at London Business School or open my own bar and spend the rest of my life serving drinks for the greater good of mankind.</description>
+    </item>
+    
+    <item>
+      <title>Akshat Bio</title>
+      <link>https://akshatkacheria.netlify.app/blogs/akbio/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://akshatkacheria.netlify.app/blogs/akbio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain Controlled Wheelchair</title>
+      <link>https://akshatkacheria.netlify.app/blogs/braincontrol/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://akshatkacheria.netlify.app/blogs/braincontrol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain Controlled Wheelchair</title>
+      <link>https://akshatkacheria.netlify.app/blogs/braincontrol/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://akshatkacheria.netlify.app/blogs/braincontrol/</guid>
+      <description>Millions of people across the world suffer from various mobility impairments caused by Amyotrophic Lateral Sclerosis (ALS), brainstem stroke, brain or spinal cord injury, cerebral palsy, muscular dystrophies, multiple sclerosis, and many other diseases.A large portion of these people heavily rely upon wheelchairs to get on with their day to day activities.
+These people are dependent on others in order to move. A large number of patients are not prescribed wheelchairs at all, because they find it physically difficult to control the manual wheelchair.</description>
+    </item>
+    
+    <item>
+      <title>Brexit Data Project</title>
+      <link>https://akshatkacheria.netlify.app/blogs/brexit/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://akshatkacheria.netlify.app/blogs/brexit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brexit Data Project</title>
+      <link>https://akshatkacheria.netlify.app/blogs/brexit/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://akshatkacheria.netlify.app/blogs/brexit/</guid>
+      <description>Challenge 1: Brexit plotThe graph shows how party affiliation affected votes for Brexit. It is evident that UK Independence party supporters had the highest votes for Brexit. The analysis of data shows the predictability of a brexit like vote based on political affiliations and this could lead to parties making laws based on predictive affiliations rather than pure good of the nation.
+# Load databrexit &amp;lt;- read_csv(here::here(&amp;quot;data&amp;quot;, &amp;quot;brexit_results.</description>
+    </item>
+    
+    <item>
+      <title>Youth Behaviour Risk Project</title>
+      <link>https://akshatkacheria.netlify.app/blogs/youthbehaviour/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://akshatkacheria.netlify.app/blogs/youthbehaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth Behaviour Risk Project</title>
+      <link>https://akshatkacheria.netlify.app/blogs/youthbehaviour/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://akshatkacheria.netlify.app/blogs/youthbehaviour/</guid>
+      <description>Youth Risk Behavior SurveillanceEvery two years, the Centers for Disease Control and Prevention conduct the Youth Risk Behavior Surveillance System (YRBSS) survey, where it takes data from high schoolers (9th through 12th grade), to analyze health patterns. We will work with a selected group of variables from a random sample of observations during one of the years the YRBSS was conducted.
+We mainly compare the weight of youth and check if that correlates with fitness and test if our assumptions are true.</description>
+    </item>
+    
+  </channel>
+</rss>
