@@ -6,17 +6,7 @@
     <description>Recent content on Akshat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://akshatkacheria.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Session 4: Homework 2</title>
-      <link>https://akshatkacheria.netlify.app/blogs/homework2_group12_consolidated_3/</link>
-      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://akshatkacheria.netlify.app/blogs/homework2_group12_consolidated_3/</guid>
-      <description>Climate change and temperature anomaliesIf we wanted to study climate change, we can find data on the Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies in the Northern Hemisphere at NASA’s Goddard Institute for Space Studies. The tabular data of temperature anomalies can be found here
-To define temperature anomalies you need to have a reference, or base, period which NASA clearly states that it is the period between 1951-1980.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://akshatkacheria.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello R Markdown</title>
       <link>https://akshatkacheria.netlify.app/post/2020-12-01-r-rmarkdown/</link>

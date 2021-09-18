@@ -3,14 +3,12 @@ title: "Youth Behaviour Risk Project"
 date: '2017-10-31T22:42:51-05:00'
 description: A project on youth behaviour risk
 draft: no
-image: pictempyouth.jpg
 keywords: ''
 slug: youthbehaviour
 categories:
 - ''
 - ''
 ---
-
 
 ```{r, setup, echo=FALSE}
 knitr::opts_chunk$set(
